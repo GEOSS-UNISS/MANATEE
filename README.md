@@ -28,7 +28,24 @@ The MANATEE project adopts a **multi-resolution approach** to underwater positio
 ### 🧪 Experimental Activities
 The project’s first field tests will take place in November 2024 off the coast of Costa Paradiso, Sardinia. Here, the team will simultaneously operate all three systems in the same area to assess and validate the data collected against traditional, invasive methods. Key tests include:
 - 🌱 **Synthetic Algae Sample Modeling**: Using 3D printing to create modified versions of *Lithophyllum stictiforme* samples for photogrammetric analysis.
+
+Starting from the photogrammetric survey of a dried thallus of Lithophyllum stictiforme, two slightly modified 3D-printed versions of the same sample were modeled. Modifications to the original model were made using digital sculpting techniques to simulate temporal changes in growth or reduction in the thallus structure. These two versions were also designed to be alternately fixed, using a forced-centering procedure, onto the same base, allowing them to be measured through a photogrammetric survey conducted with the three different vectors of the MANATEE project.
+
+|<img src="http://drive.google.com/uc?export=view&id=1PLbtDtVibe8DZfjyje_jSSGd5eqQiW6C" height="150" />|<img src="http://drive.google.com/uc?export=view&id=1fgmaM4vg1F107yTlAaJS_ajAKVYiFzWs" height="150" />|<img src="http://drive.google.com/uc?export=view&id=1g40N8zYekMGKSrn0Q90128vvXaS7N5_d" height="150" />|
+|-|-|-|
+
+📝 The scientific paper is ON PRESS<br>
+⬇️ You can download the full 3D models repository [here](https://drive.google.com/drive/folders/1n3eZNBpfJSTMGImgfJD7jDQqQcGaalyA?usp=sharing)<br>
+📚 The documentation and the blueprints are available [here](https://drive.google.com/drive/folders/1QSufIgP7oct2hdFOlTY9_waxRuzFx1O1?usp=sharing)
+
 - 📐 **Pressure Measurements in Controlled Conditions**: Testing pressure sensors in a hydraulic laboratory to verify their accuracy under simulated marine conditions.
+
+A fundamental component of the VIP FROG system consists of custom-developed pressure and inertial sensors. These have the dual purpose of enhancing the photogrammetric survey by resolving scale ambiguity and establishing a vertical reference system, as well as providing hydrostatic leveling measurements to define control points for estimating any deformations in the photogrammetric model. We conducted two experimental tests at the Hydraulic Engineering Laboratory - LIDR maritime tank at the University of Bologna. The first series of experiments involved the sensor in static mode while various controlled sea states were generated. The purpose was to verify the sensor's ability to provide accurate depth measurements indirectly derived from pressure readings, even in wave motion. In the second series of tests, the sensor, synchronized with an underwater camera, provided information on the camera's depth while performing photogrammetric surveys under different sea conditions. The results are currently under further analysis. Still, preliminary findings confirm the potential of the proposed method both as a supplement to photogrammetric surveys and for hydrostatic control measurements.
+
+|<img src="https://raw.githubusercontent.com/GEOSS-UNISS/MANATEE/refs/heads/main/Images/Immagine1.png" height="150" />|<img src="https://raw.githubusercontent.com/GEOSS-UNISS/MANATEE/refs/heads/main/Images/Immagine2.png" height="150" />|<img src="https://raw.githubusercontent.com/GEOSS-UNISS/MANATEE/refs/heads/main/Images/Immagine3.png" height="150" />|
+|-|-|-|
+
+📝 The scientific paper is ON PRESS
 
 ### 🌍 Expected Impact
 The MANATEE project’s impact extends beyond environmental monitoring:
