@@ -63,6 +63,8 @@ This project is funded by the European Union, Next Generation EU, under the proj
 
 ### 📜 Publications
 The project team has published early findings in various proceedings and journals. Key publications include:
+
+- Calantropio, A., Chiabrando, F., Menna, F., & Nocerino, E. (2024). *Analisi Comparativa di Metodi di Miglioramento del Colore per Fotogrammetria Subacquea in Bassa Profondità: un Caso di Studio*. Bollettino della Società Italiana di Fotogrammetria e Topografia (SIFET) edizione 2024. ON PRESS
 - Del Pizzo, S., Nocerino, E., Gaglione, S., Calantropio, A., Menna, F., Troisi, S. (2024). *MAn Action-Camera Based Stereo System for microROV for Monitoring Coralline Algae in the Mediterranean Sea: Preliminary Assessment*. In Proceedings of the 2024 IEEE International Workshop on Metrology for the Sea; Learning to Measure Sea Health Parameters (MetroSea), pp. xxx–xxx. IEEE. ON PRESS
 - Nocerino, E., Calantropio, A., Menna, F., Del Pizzo, S., Troisi, S., Lambertini, A., Mokhtari, S., & Vittuari, L. (2024). *MANATEE - UN PROGETTO PER LA MAPPATURA E IL MONITORAGGIO DEGLI HABITAT MARINI CON TECNOLOGIE GEOMATICHE INTEGRATE*. In Proceedings of the 2024 ASITA Conference. ON PRESS
 - Nocerino, E., Del Pizzo, S., Lambertini, A., Troisi, S., & Vittuari, L. (2023). *MANATEE Project: Monitoring and Mapping of Marine Habitat with Integrated Geomatics Technologies*. In Proceedings of the 2023 IEEE International Workshop on Metrology for the Sea; Learning to Measure Sea Health Parameters (MetroSea), pp. 181–186. IEEE.
