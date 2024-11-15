@@ -1,7 +1,7 @@
 # 🌊 MANATEE
 **Monitoring and Mapping of Marine Habitat with Integrated Geomatics Technologies**
 
-<span class="image main"><img src="images/manatee.png" alt="Projects" /></span>
+<span class="image main"><img src="Images/manatee.png" alt="Projects" /></span>
 
 🌐 [Visit the Project Website](https://site.unibo.it/prin-manatee/en/project)
 
