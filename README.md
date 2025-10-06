@@ -9,9 +9,7 @@
 ---
 
 ## Overview
-**MANATEE** develops non-invasive monitoring of Mediterranean marine habitats using integrated geomatics. Funded under **PRIN 2022**, the project couples underwater photogrammetry with **acoustic, pressure and inertial sensing** for precise navigation and sub-millimetre change detection on fragile bioconstructions such as the coralline red alga <i>Lithophyllum stictiforme</i>.
-
-A statistically significant set of samples has been prepared and mounted on **custom tiles and nets** with photogrammetric targets for long-term, metric-traceable monitoring on the seabed.
+**MANATEE** develops non-invasive monitoring of Mediterranean marine habitats using integrated geomatics technologies. Funded under **PRIN 2022**, the project couples underwater photogrammetry with **acoustic, pressure and inertial sensing** for precise navigation and sub-millimetre change detection on fragile bioconstructions such as the coralline red alga <i>Lithophyllum stictiforme</i>.
 
 Our approach is implemented across three underwater platforms, designed to monitor various habitat types at different depths, scales, and resolutions:
 - 🐠 **Observation UUV (Blucy-class)** — imaging payload + navigation sensors for detailed mapping at depth.
@@ -69,15 +67,13 @@ Preliminary results confirm the potential of the method both as a supplement to 
 ---
 
 ### 🗺️ Field site — Costa Paradiso (Sardinia)
-The first field tests **took place in November 2024** off the coast of **Costa Paradiso (Trinità d’Agultu e Vignola, Sardinia)**. One of the live experimental areas with tile-mounted samples is located here. Explore an online 3D viewer of a representative sample:
+The first field tests **took place in November 2024** off the coast of **Costa Paradiso (Sardinia)**. One of the live experimental areas with tile-mounted samples is located here. Explore an online 3D viewer of a representative sample:
 
 <div style="margin:1rem 0">
-  <iframe src="https://geoss.altervista.org/costaparadiso/" title="Costa Paradiso — Sample 3D Viewer"
-          width="100%" height="640" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
-          allowfullscreen></iframe>
+  <iframe <iframe id="thumb" allowfullscreen allow="fullscreen" 
+          style="position:absolute; top:0px; left:0px; width:100%; height:100%; border-width:0px"
+          src="https://geoss.altervista.org/costaparadiso/"></iframe>
 </div>
-
-<i>Site notes:</i> rocky coralligenous settings; access and bathymetry suitable for diver and ROV operations.
 
 ---
 
@@ -98,7 +94,6 @@ DOI: **10.5281/zenodo.XXXXX** <!-- REPLACE with real DOI after deposit -->
 - **University of Sassari**: Erica Nocerino, Alessio Calantropio, Fabio Menna  
 - **University of Naples Parthenope**: Silvio Del Pizzo, Salvatore Troisi  
 - **University of Bologna**: Alessandro Lambertini, Shahriar Mokhtari, Luca Vittuari  
-- *(with marine biology support: Federico Pinna & collaborators)*
 
 ---
 
