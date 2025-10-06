@@ -67,7 +67,7 @@ Preliminary results confirm the potential of the method both as a supplement to 
 ---
 
 ### 🗺️ Field site — Costa Paradiso (Sardinia)
-The first field tests **took place in November 2024** off the coast of **Costa Paradiso (Sardinia)**. One of the live experimental areas with tile-mounted samples is located here. Explore an online 3D viewer of a representative sample:
+The first field tests **took place in February** off the coast of **Costa Paradiso (Sardinia)**. One of the live experimental areas with tile-mounted samples is located here. Explore an online 3D viewer of a representative sample:
 
 <a href="https://geoss.altervista.org/costaparadiso/" target="_blank" rel="noopener">OPEN THE VIEWER</a>  
 
@@ -95,7 +95,7 @@ DOI: **10.5281/zenodo.XXXXX** <!-- REPLACE with real DOI after deposit -->
 
 ## 🙏 Acknowledgments
 European Union — **NextGenerationEU**, **PRIN 2022** (Project MANATEE, J53D23002570001).  
-Special thanks to Prof. Cristiana Bragalli and Dr. Maria Gabriella Gaeta (Hydraulic Engineering Laboratory — LIDR, University of Bologna) and to Dr. Federico Pinna for biological samples and scientific guidance.
+Special thanks to Prof. Cristiana Bragalli and Dr. Maria Gabriella Gaeta (Hydraulic Engineering Laboratory — LIDR, University of Bologna), and to Dr. Federico Pinna for providing biological samples and offering scientific guidance.
 
 ---
 
