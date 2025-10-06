@@ -69,11 +69,7 @@ Preliminary results confirm the potential of the method both as a supplement to 
 ### 🗺️ Field site — Costa Paradiso (Sardinia)
 The first field tests **took place in November 2024** off the coast of **Costa Paradiso (Sardinia)**. One of the live experimental areas with tile-mounted samples is located here. Explore an online 3D viewer of a representative sample:
 
-<div style="margin:1rem 0">
-  <iframe <iframe id="thumb" allowfullscreen allow="fullscreen" 
-          style="position:absolute; top:0px; left:0px; width:100%; height:100%; border-width:0px"
-          src="https://geoss.altervista.org/costaparadiso/"></iframe>
-</div>
+<a href="https://geoss.altervista.org/costaparadiso/" target="_blank" rel="noopener">OPEN THE VIEWER</a>  
 
 ---
 
