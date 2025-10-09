@@ -78,7 +78,7 @@ The first field tests **took place in February** off the coast of **Costa Paradi
 **MANATEE — T0-uw underwater RAW image dataset (Costa Paradiso, Feb 2025)**  
 238 Olympus **.ORF** images (RAW) for photogrammetry of *Lithophyllum stictiforme* tiles.
 
-- **DOI:** <a href="10.5281/zenodo.17306598" target="_blank" rel="noopener">10.5281/zenodo.17306598</a> <!-- REPLACE after publishing -->
+- **DOI:** <a href="https://10.5281/zenodo.17306598" target="_blank" rel="noopener">10.5281/zenodo.17306598</a> <!-- REPLACE after publishing -->
 - **License:** Creative Commons Attribution 4.0 (CC BY 4.0)
 - **Acquisition date:** 07 Feb 2025 (T0-uw)
 - **Site:** Costa Paradiso, Sardinia (Italy)
@@ -92,7 +92,7 @@ Nocerino, E., Menna, F., Calantropio, A., *et al.* (2025). *Underwater optical m
 
 <!-- Optional call-to-action buttons -->
 <p>
-  <a class="button primary" href="10.5281/zenodo.17306598" target="_blank" rel="noopener">Open dataset on Zenodo</a>
+  <a class="button primary" href="https://10.5281/zenodo.17306598" target="_blank" rel="noopener">Open dataset on Zenodo</a>
 </p>
 
 ---
