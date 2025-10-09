@@ -74,8 +74,27 @@ The first field tests **took place in February** off the coast of **Costa Paradi
 ---
 
 ## 🗃️ Open Dataset (Zenodo)
-**MANATEE — Costa Paradiso tile sample (<i>Lithophyllum stictiforme</i>):
-DOI: **10.5281/zenodo.XXXXX** <!-- REPLACE with real DOI after deposit -->
+
+**MANATEE — T0-uw underwater RAW image dataset (Costa Paradiso, Feb 2025)**  
+238 Olympus **.ORF** images (RAW) for photogrammetry of *Lithophyllum stictiforme* tiles.
+
+- **DOI:** <a href="https://doi.org/10.5281/zenodo.XXXXX" target="_blank" rel="noopener">10.5281/zenodo.XXXXX</a> <!-- REPLACE after publishing -->
+- **License:** Creative Commons Attribution 4.0 (CC BY 4.0)
+- **Acquisition date:** 07 Feb 2025 (T0-uw)
+- **Site:** Costa Paradiso, Sardinia (Italy)
+- **Camera / lens:** Olympus OM-D E-M1 Mark II + 9–18 mm (set to 9 mm)
+- **Representative EXIF:** 5240×3912 px; 1/250 s; f/5; ISO-640; Manual; Flash: compulsory
+- **Files:** 238 × .ORF (~17.4 MB each; total ≈ 4.1 GB)
+
+📄 **Related article:**  
+Nocerino, E., Menna, F., Calantropio, A., *et al.* (2025). *Underwater optical metrology for precision monitoring of marine habitats: the MANATEE project*. ISPRS Archives XLVIII-2/W10-2025, 207–214.  
+<a href="https://doi.org/10.5194/isprs-archives-XLVIII-2-W10-2025-207-2025" target="_blank" rel="noopener">Read the paper</a>
+
+<!-- Optional call-to-action buttons -->
+<p>
+  <a class="button primary" href="https://doi.org/10.5281/zenodo.XXXXX" target="_blank" rel="noopener">Open dataset on Zenodo</a>
+  <a class="button" href="https://doi.org/10.5194/isprs-archives-XLVIII-2-W10-2025-207-2025" target="_blank" rel="noopener">Paper details</a>
+</p>
 
 ---
 
