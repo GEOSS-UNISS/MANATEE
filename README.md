@@ -71,6 +71,8 @@ The first field tests **took place in February** off the coast of **Costa Paradi
 
 <a href="https://geoss.altervista.org/costaparadiso/" target="_blank" rel="noopener">OPEN THE VIEWER</a>  
 
+<img src="Images/costaparadiso.gif" alt="costaparadiso" />
+
 ---
 
 ## 🗃️ Open Dataset (Zenodo)
