@@ -121,7 +121,7 @@ Special thanks to Prof. Cristiana Bragalli and Dr. Maria Gabriella Gaeta (Hydrau
 
 ## 📜 Publications (updated 2023–2025)
 - **Nocerino, E., Menna, F., Calantropio, A., …, Vittuari, L. (2025)**. *Underwater optical metrology for precision monitoring of marine habitats: the MANATEE project*. ISPRS Archives, XLVIII-2/W10-2025, 207–214. doi:10.5194/isprs-archives-XLVIII-2-W10-2025-207-2025.  
-- **Calantropio, A. (2025)**. *Underwater synthetic image generation for multi-temporal monitoring*. ISPRS Archives, XLVIII-2/W10-2025, 47–54. doi:10.5194/isprs-archives-XLVIII-2-W10-2025-47-2025.  
+- **Calantropio, A., Giaquinto, A. (2025)**. *Underwater synthetic image generation for multi-temporal monitoring*. ISPRS Archives, XLVIII-2/W10-2025, 47–54. doi:10.5194/isprs-archives-XLVIII-2-W10-2025-47-2025.  
 - **Menna, F., Nocerino, E., & Calantropio, A. (2024)**. *High-accuracy height differences using a pressure sensor for GCPs in underwater photogrammetry*. ISPRS Archives, 48, 273–279.  
 - **Calantropio, A., Chiabrando, F., Menna, F., & Nocerino, E. (2024)**. *Quantitative Evaluation of Color Enhancement Methods for Underwater Photogrammetry in Very Shallow Water: a Case Study*. ISPRS Annals, 10, 25–32.  
 - **Del Pizzo, S., Nocerino, E., Gaglione, S., Calantropio, A., Menna, F., & Troisi, S. (2024)**. *An Action-Camera Based Stereo System for microROV for Monitoring Coralline Algae: Preliminary Assessment*. IEEE MetroSea 2024.  
